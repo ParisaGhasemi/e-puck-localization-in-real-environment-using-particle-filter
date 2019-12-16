@@ -2,12 +2,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 
-/*
- * File:          nav0.c
- * Date:   1 Tir 1398
- * Author: Safa Mohammadi, parisa ghasemi, mohaddese Fahiminia
- */
-
 
 #include <webots/differential_wheels.h>
 #include <webots/distance_sensor.h>
