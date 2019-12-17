@@ -8,13 +8,13 @@ Webots is a free open source robot simulator including different kinds of robots
 
 ![](http://blog.inf.ed.ac.uk/atate/files/2014/04/2014-03-05-Webots-6-4-4-Nau.jpg)
 
-Features:\n
-Different robot and environment models\n
-Different programming languages\n
-Both real and simulated environments\n
-Simple usage
+### Features:
+- Different robot and environment models
+- Different programming languages
+- Both real and simulated environments
+- Simple usage
 
-### E-puck
+#### E-puck
 
 ![](https://raw.githubusercontent.com/cyberbotics/webots/master/docs/guide/images/robots/epuck/epuck2.thumbnail.png)
 
